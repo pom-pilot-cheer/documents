@@ -27,7 +27,7 @@ This data is processed by **Clerk** on our behalf. See Clerk's privacy policy at
 Data you create inside the app — including organization details, team rosters, athlete names, routine formations, slide data, positions, and skill assignments — is stored on your device and synced to our servers. This data belongs to your organization and is only accessible to members you invite.
 
 ### Photos
-If you upload a gym banner image, the app requests access to your photo library. The selected image is stored on your device and uploaded to our servers. We do not access photos you do not explicitly select.
+N/A
 
 ### Device Identifier
 On first launch, the app generates a random identifier for your device and stores it locally. This identifier is included with data sync requests so the server can track which device last modified a record and resolve conflicts. It is not tied to your name, email, or any advertising system.
