@@ -1,7 +1,7 @@
 # Privacy Policy — Routines by Pompilot
 
 **Effective date:** 2026-04-15
-**Last updated:** 2026-04-15
+**Last updated:** 2026-07-31
 
 ---
 
